@@ -1,6 +1,6 @@
-# CloakedCollectible-Bazaar
+# Obscura
 
-Privacy-preserving NFT auction marketplace powered by Zama's FHE technology.
+Privacy-preserving auction marketplace powered by Zama's FHE technology.
 
 ## Features
 
