@@ -2,6 +2,14 @@
 
 Privacy-preserving auction marketplace for digital art, physical collectibles, and real-world assets powered by Zama's FHE technology.
 
+## Demo Video
+
+Watch how to use Obscura's encrypted bidding system:
+
+https://github.com/user-attachments/assets/bid_test_viedo.mp4
+
+*The video demonstrates the complete bidding process, from connecting your wallet to placing encrypted bids on auction items.*
+
 ## Overview
 
 Obscura is a decentralized auction platform where bid amounts remain completely encrypted throughout the entire auction process. Using Fully Homomorphic Encryption (FHE), bidders can compete without revealing their bids to anyone - including other bidders, the seller, or even the platform itself.
