@@ -6,7 +6,7 @@ Privacy-preserving auction marketplace for digital art, physical collectibles, a
 
 Watch how to use Obscura's encrypted bidding system:
 
-https://github.com/user-attachments/assets/bid_test_viedo.mp4
+[📹 Watch Demo Video](./bid_test_viedo.mp4)
 
 *The video demonstrates the complete bidding process, from connecting your wallet to placing encrypted bids on auction items.*
 
