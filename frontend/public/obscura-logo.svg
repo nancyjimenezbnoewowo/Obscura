@@ -1,0 +1,27 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Box outline -->
+  <rect x="30" y="40" width="140" height="120" rx="8" stroke="currentColor" stroke-width="3" fill="none"/>
+
+  <!-- Box lid line -->
+  <line x1="30" y1="70" x2="170" y2="70" stroke="currentColor" stroke-width="3"/>
+
+  <!-- Lock symbol -->
+  <rect x="90" y="50" width="20" height="15" rx="2" stroke="currentColor" stroke-width="2" fill="none"/>
+  <circle cx="100" cy="57" r="5" fill="currentColor"/>
+
+  <!-- Closed eye (left) -->
+  <path d="M 60 110 Q 75 105 90 110" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <line x1="65" y1="108" x2="72" y2="103" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="75" y1="106" x2="82" y2="103" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="85" y1="108" x2="78" y2="103" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Closed eye (right) -->
+  <path d="M 110 110 Q 125 105 140 110" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <line x1="115" y1="108" x2="122" y2="103" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="125" y1="106" x2="132" y2="103" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="135" y1="108" x2="128" y2="103" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Privacy lines -->
+  <line x1="45" y1="130" x2="155" y2="130" stroke="currentColor" stroke-width="1.5" opacity="0.6"/>
+  <line x1="50" y1="140" x2="150" y2="140" stroke="currentColor" stroke-width="1.5" opacity="0.4"/>
+</svg>
