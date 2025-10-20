@@ -207,4 +207,4 @@ export const PRIVATE_AUCTION_ABI = [
 ] as const;
 
 // Contract address will be set after deployment
-export const PRIVATE_AUCTION_ADDRESS = '0xF49Aa40a39b64F31fB437cA8a8b346FdfB4Ae69C'; // TODO: Update after deployment
+export const PRIVATE_AUCTION_ADDRESS = '0xc490A8aaF2667ed223f616419A31506A83c787C4'; // TODO: Update after deployment

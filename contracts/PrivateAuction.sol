@@ -55,7 +55,7 @@ contract PrivateAuction is SepoliaConfig {
     mapping(address => uint256[]) private _userBids;
 
     uint256 public constant MIN_AUCTION_DURATION = 1 hours;
-    uint256 public constant MAX_AUCTION_DURATION = 30 days;
+    uint256 public constant MAX_AUCTION_DURATION = 90 days;
 
     event AuctionCreated(uint256 indexed auctionId, address indexed seller, string itemName, uint256 endTime);
     event BidPlaced(uint256 indexed bidId, uint256 indexed auctionId, address indexed bidder, bytes32 bidAmountHandle);
